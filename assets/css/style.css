@@ -1,0 +1,43 @@
+.navbar-brand .logo {
+    height: 2rem;
+    margin-left: 2rem;
+}
+
+footer .logo {
+    height: 1.5rem;
+    left: 0;
+    right: 0;
+}
+
+form .title {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card {
+    font-weight: 100;
+    color: #707070;
+}
+
+.card .card-body {
+    min-height: 10em;
+}
+
+.card .card-footer .card-text {
+    text-align: end;
+}
+
+.card .card-title {
+    font-weight: 300;
+    color: #212529;
+}
+
+.card img {
+    height: 20rem;
+    object-fit: cover;
+}
+
+.card .card-footer span {
+    color: #28A745;
+}
